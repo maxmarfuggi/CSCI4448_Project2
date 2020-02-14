@@ -1,0 +1,101 @@
+
+
+Welcome to the Object-Oriented Zoo!
+The Zookeeper will now start the day!
+
+Zoo Announcement: The Zookeeper is waking up all of the animals!
+Waking the animals up...
+Caroline the Cat/Feline says hiss!
+Carl the Cat/Feline says nothing and continues sleeping.
+Tony the Tiger/Feline goes back to sleep.
+Teemu the Tiger/Feline goes back to sleep.
+Larry the Lion/Feline says roar!
+Lorraine the Lion/Feline says roar!
+Danny the Dog/Canine pops up excitedly.
+Dre the Dog/Canine pops up excitedly.
+Warren the Wolf/Canine jumps awake.
+Wilma the Wolf/Canine jumps awake.
+Henrietta the Hippo/Pachyderm says  does a nice long stretch in the sun.
+Harry the Hippo/Pachyderm says  ignores zookeeper and goes back to sleep without hesitation.
+Ella the Elephant/Pachyderm stretches their trunk.
+Emilio the Elephant/Pachyderm stretches their trunk.
+Roland the Rhino/Pachyderm rolls over and keeps sleeping because he's comfortable.
+Randy the Rhino/Pachyderm rolls over and keeps sleeping because he's comfortable.
+
+Zoo Announcement: The Zookeeper is taking roll for all of the animals!
+Calling roll for all the animals...
+Caroline the Cat/Feline says purrrrrr.
+Carl the Cat/Feline says purrrrrr.
+Tony the Tiger/Feline says groowwwwwwl.
+Teemu the Tiger/Feline says groowwwwwwl.
+Larry the Lion/Feline says ROOOOOOAAAAR.
+Lorraine the Lion/Feline says ROOOOOOAAAAR.
+Danny the Dog/Canine says bark bark.
+Dre the Dog/Canine says bow wow!
+Warren the Wolf/Canine goes AWOOOOO!
+Wilma the Wolf/Canine goes AWOOOOO!
+Henrietta the Hippo/Pachyderm splashes out from the water.
+Harry the Hippo/Pachyderm splashes out from the water.
+Ella the Elephant/Pachyderm says toooooooooot!
+Emilio the Elephant/Pachyderm says toooooooooot!
+Roland the Rhino/Pachyderm stomps their hooves.
+Randy the Rhino/Pachyderm stomps their hooves.
+
+Zoo Announcement: The Zookeeper is exercising all of the animals!
+Letting the animals get their exercise...
+Caroline the Cat/Feline sneakily prowling around.
+Carl the Cat/Feline sneakily prowling around.
+Tony the Tiger/Feline sneakily prowling around.
+Teemu the Tiger/Feline sneakily prowling around.
+Larry the Lion/Feline sneakily prowling around.
+Lorraine the Lion/Feline sneakily prowling around.
+Danny the Dog/Canine is chewing on a bone.
+Dre the Dog/Canine is chewing on a bone.
+Warren the Wolf/Canine is chewing on a bone.
+Wilma the Wolf/Canine is chewing on a bone.
+Henrietta the Hippo/Pachyderm is playing in the water.
+Harry the Hippo/Pachyderm is playing in the water.
+Ella the Elephant/Pachyderm is playing in the water.
+Emilio the Elephant/Pachyderm is playing in the water.
+Roland the Rhino/Pachyderm is playing in the water.
+Randy the Rhino/Pachyderm is playing in the water.
+
+Zoo Announcement: The Zookeeper is feeding all of the animals!
+Feeding all the animals...
+Caroline the Cat/Feline is eating food.
+Carl the Cat/Feline is eating food.
+Tony the Tiger/Feline is eating food.
+Teemu the Tiger/Feline is eating food.
+Larry the Lion/Feline is eating food.
+Lorraine the Lion/Feline is eating food.
+Danny the Dog/Canine is eating Canine food.
+Dre the Dog/Canine is eating Canine food.
+Warren the Wolf/Canine is eating Canine food.
+Wilma the Wolf/Canine is eating Canine food.
+Henrietta the Hippo/Pachyderm is eating Pachyderm food.
+Harry the Hippo/Pachyderm is eating Pachyderm food.
+Ella the Elephant/Pachyderm is eating Pachyderm food.
+Emilio the Elephant/Pachyderm is eating Pachyderm food.
+Roland the Rhino/Pachyderm is eating Pachyderm food.
+Randy the Rhino/Pachyderm is eating Pachyderm food.
+
+Zoo Announcement: The Zookeeper is putting all of the animals to bed. Thanks for coming!
+Shutting down the zoo for the day...
+Caroline the Cat/Feline dozes off to sleep.
+Carl the Cat/Feline dozes off to sleep.
+Tony the Tiger/Feline dozes off to sleep.
+Teemu the Tiger/Feline dozes off to sleep.
+Larry the Lion/Feline dozes off to sleep.
+Lorraine the Lion/Feline dozes off to sleep.
+Danny the Dog/Canine dozes off to sleep.
+Dre the Dog/Canine dozes off to sleep.
+Warren the Wolf/Canine dozes off to sleep.
+Wilma the Wolf/Canine dozes off to sleep.
+Henrietta the Hippo/Pachyderm dozes off to sleep.
+Harry the Hippo/Pachyderm dozes off to sleep.
+Ella the Elephant/Pachyderm dozes off to sleep.
+Emilio the Elephant/Pachyderm dozes off to sleep.
+Roland the Rhino/Pachyderm dozes off to sleep.
+Randy the Rhino/Pachyderm dozes off to sleep.
+
+That's all, thanks for coming!
